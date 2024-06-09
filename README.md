@@ -77,4 +77,4 @@
 
 4. Upload sketch ke ESP32
 
-Selain metode diatas, setelah langkah 2 anda dapat juga melakukan copy-paste kode yang ada dalam repository langsung ke dalam sketch arduino dalma arduino IDE anda, kemudian lakukan upload. 
+Selain metode diatas, setelah langkah 2 anda dapat juga melakukan copy-paste kode yang ada dalam repository langsung ke dalam sketch arduino dalma arduino IDE anda, kemudian lakukan upload sketch ke ESP32. 
